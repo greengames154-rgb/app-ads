@@ -3,3 +3,5 @@ google.com, pub-8228071292310844, DIRECT, f08c47fec0942fa0
 
 # === UNITY ADS ===
 unity3d.com, 23414, DIRECT, 2748e42f9b2d8298
+
+applovin.com, 1355884011, DIRECT, b50b5d5d6d5386fa
